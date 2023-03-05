@@ -1,3 +1,4 @@
 # Math
 
-All Programms are Tkinter GUI's, so it is needed to install Numpy and Tkinter.
+All Programms that i have written for School. It is needed to import Numpy and Tkinter for most of them.
+
